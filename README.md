@@ -55,7 +55,7 @@ Ask me about <b>DSA and development</b> — <br>
 
 <td width="45%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding gif"/>
 
 </td>
 
