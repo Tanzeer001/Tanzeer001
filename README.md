@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi I'm Tanzeer Ahmed
+<p align="center">
+MERN Stack Developer | DSA
+</p>
+<h3 align="center">📫 Connect with me</h3>
 
-<!--
-**Tanzeer001/Tanzeer001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/tanzeer-ahmed-482a38289/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="mailto:ahmedtanzeer123@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://leetcode.com/New_Coder_01/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
+  </a>
+</p>
+
+
