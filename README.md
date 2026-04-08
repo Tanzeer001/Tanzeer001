@@ -8,7 +8,7 @@ MERN Stack Developer | DSA Explorer
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+Coffee+into+Code;Fixing+Bugs+I+Created+Myself;Backend+over+Frontend;DSA+Today+Regret+Tomorrow;Building+Projects+That+Mostly+Work" />
 </p>
 
----
+
 
 <h3 align="center">Connect with me</h3>
 
@@ -26,7 +26,6 @@ MERN Stack Developer | DSA Explorer
   </a>
 </p>
 
----
 
 <h2 align="center">About Me</h2>
 
@@ -62,7 +61,7 @@ Ask me about <b>DSA and development</b> — <br>
 </tr>
 </table>
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Learner-blue?style=for-the-badge" />
@@ -70,35 +69,59 @@ Ask me about <b>DSA and development</b> — <br>
   <img src="https://img.shields.io/badge/Debugging-Experience-orange?style=for-the-badge" />
 </p>
 
----
 
-<h2 align="center"> Tech Stack (Things I Fight With Daily)</h2>
-<p>
- <b>The "I Build Stuff Here" Layer (MERN Life)</b><br>
+<h2 align="center">Tech Stack (Things I Fight With Daily)</h2>
+
+<table align="center">
+<tr>
+<td width="30%"><b>MERN Development</b></td>
+<td width="70%">
 React.js • Node.js • Express.js • MongoDB <br>
-<i>Where things either work beautifully… or crash silently at 2 AM</i> 
-<br>
-<b>The "Brain Workout" Zone</b><br>
-C++ • DSA • Problem Solving <br>
-<i>I solve problems… and sometimes create new ones while solving them</i> 
-<br>
- <b>The "Looks Good Until CSS Breaks"</b><br>
-HTML • CSS • JavaScript <br>
-<i>Centered a div once… haven’t recovered since</i> 
-<br>
-🛠️ <b>The "Make It Actually Work" Tools</b><br>
-Git • GitHub • Postman • Linux <br>
-<i>git commit -m "final fix" (this is the 7th final fix)</i> 
-<br>
-<b>The "Real Developer Experience"</b><br>
-Debugging • Stack Overflow • Random YouTube tutorials <br>
-<i>80% debugging, 20% coding, 100% confusion</i> 
-<br>
- <b>The "Reality Check"</b><br>
-Backend > Frontend (peacefully ) <br>
-<i>But CSS still finds a way to humble me</i>
+<i>Where things either work beautifully or crash silently at 2 AM</i>
+</td>
+</tr>
 
-</p>
+<tr>
+<td><b>Problem Solving</b></td>
+<td>
+C++ • Data Structures and Algorithms <br>
+<i>I solve problems and sometimes create new ones while solving them</i>
+</td>
+</tr>
+
+<tr>
+<td><b>Web Fundamentals</b></td>
+<td>
+HTML • CSS • JavaScript <br>
+<i>Centered a div once and have not recovered since</i>
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+Git • GitHub • Postman • Linux <br>
+<i>git commit -m "final fix" (this is the 7th final fix)</i>
+</td>
+</tr>
+
+<tr>
+<td><b>Development Experience</b></td>
+<td>
+Debugging • Stack Overflow • Documentation <br>
+<i>80% debugging, 20% coding, 100% confusion</i>
+</td>
+</tr>
+
+<tr>
+<td><b>Reality Check</b></td>
+<td>
+Backend over Frontend <br>
+<i>CSS still finds a way to humble me</i>
+</td>
+</tr>
+
+</table>
 
 ---
 
