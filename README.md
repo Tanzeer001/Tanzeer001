@@ -149,8 +149,10 @@ Backend over Frontend <br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
 
 </p>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=You+reached+the+end;No+more+bugs+here+(hopefully);Time+to+close+some+tabs;Or+open+17+more;Goodbye+for+now" />
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=You+reached+the+end;No+more+bugs+here+(hopefully);Time+to+close+some+tabs;Or+open+17+more;Goodbye+for+now" />
+</p>
 
 <h2 align="center">GitHub Stats</h2>
 
