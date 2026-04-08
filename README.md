@@ -150,10 +150,6 @@ Backend over Frontend <br>
 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=You+reached+the+end;No+more+bugs+here+(hopefully);Time+to+close+some+tabs;Or+open+17+more;Goodbye+for+now" />
-</p>
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
@@ -166,4 +162,8 @@ Backend over Frontend <br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanzeer001&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=You+reached+the+end;No+more+bugs+here+(hopefully);Time+to+close+some+tabs;Or+open+17+more;Goodbye+for+now" />
 </p>
