@@ -21,9 +21,6 @@ MERN Stack Developer | DSA Explorer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/New_Coder_01/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
-  </a>
 </p>
 
 
